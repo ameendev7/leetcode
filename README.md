@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ameendev7/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/ameendev7/leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ameendev7/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/ameendev7/leetcode/tree/master/1580-shuffle-the-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ameendev7/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ameendev7/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Hash Table
